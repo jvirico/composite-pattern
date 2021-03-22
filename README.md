@@ -4,9 +4,12 @@ This project contains small examples of Composite design pattern implemented in 
 ## Composite pattern
 In software engineering, the composite pattern is a partitioning design pattern. The composite pattern describes a group of objects that are treated the same way as a single instance of the same type of object. The intent of a composite is to "compose" objects into tree structures to represent part-whole hierarchies. Implementing the composite pattern lets clients treat individual objects and compositions uniformly [1].
 
-![](./img/composite_uml.png)
+<img src="./img/composite_uml.png" alt="drawing" width="400"/>
 Fig. 1 - UML class design
 
+
+## Cite this work
+    J. Rico, (2019) Composite design pattern examples in Java and Python. [Source code](https://github.com/jvirico/CompositePattern)
 
 ## Examples
 - Example 1 in Java uses two objects, object **File** as Leaf, and object **Directory** as branch, and implements the composite pattern named **CompositeDemo** [3].
